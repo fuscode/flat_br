@@ -1,7 +1,7 @@
 {
   "name": "flat_br",
   "version": "0.1.0",
-  "homepage": "fuscode.github.io",
+  "homepage": "https://fuscode.github.io/flat_br",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
